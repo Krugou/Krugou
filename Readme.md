@@ -14,6 +14,11 @@ Over the course of my school/work career, I have been privileged to contribute t
 
 I am constantly seeking new challenges and opportunities to evolve as a developer. I firmly believe in the power of collaboration and teamwork, and I relish the opportunity to work with others to brainstorm and solve problems. If you have a project in mind or are simply seeking a collaborator, please do not hesitate to reach out to me through my GitHub profile. Thank you for your time!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/krugou) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksi-nokelainen-3706b7259/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aleksi.nokelainen.7) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/krugou/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/krugou) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://krugou.github.io)
+## Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krugou)
+[![Socials](https://img.shields.io/badge/Socials-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://krugou.github.io/socials/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksi-nokelainen-3706b7259/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krugou/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krugou&show_icons=true)
