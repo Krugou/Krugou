@@ -1,5 +1,7 @@
 # Aleksi Nokelainen - Full Stack Developer
 
+## About me
+
 Greetings! I am Aleksi Nokelainen, a dedicated full stack software developer with a fervor for crafting intuitive and user-centric software solutions. I possess a robust skill set in a multitude of programming languages and technologies. In my free time, I pursue photography as a hobby, capturing moments with both DSLR and mobile photography - you can find some of my work on my Instagram.
 
 My core programming languages include `JavaScript`, `HTML`, `CSS`, `SASS`, `Java`, and `TypeScript`. For front-end development, I have a deep understanding of frameworks and libraries such as `Bootstrap`, `React`, `Svelte`, `jQuery`, `Three.js`, `GSAP`, `Chart.js`, `Recharts`, `MUI`, `Framer Motion`, `React-Toastify`, `Discord.js`, and `i18n`.
@@ -22,4 +24,5 @@ I am constantly seeking new challenges and opportunities to evolve as a develope
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krugou/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksi.nokelainen@gmail.com)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krugou&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krugou&show_icons=true)
