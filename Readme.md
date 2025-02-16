@@ -24,5 +24,5 @@ I am constantly seeking new challenges and opportunities to evolve as a develope
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krugou/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksi.nokelainen@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krugou&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krugou&layout=compact&theme=radical&hide=html,css)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krugou&show_icons=true&theme=radical)
