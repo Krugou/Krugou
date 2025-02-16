@@ -25,4 +25,4 @@ I am constantly seeking new challenges and opportunities to evolve as a develope
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksi.nokelainen@gmail.com)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krugou&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krugou&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krugou&show_icons=true&theme=radical)
