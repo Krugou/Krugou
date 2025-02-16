@@ -1,14 +1,14 @@
 # Aleksi Nokelainen - Full Stack Developer
 
-Greetings! I am Aleksi Nokelainen, a dedicated full stack software developer with a fervor for crafting intuitive and user-centric software solutions. I possess a robust skill set in a multitude of programming languages and technologies.
+Greetings! I am Aleksi Nokelainen, a dedicated full stack software developer with a fervor for crafting intuitive and user-centric software solutions. I possess a robust skill set in a multitude of programming languages and technologies. In my free time, I pursue photography as a hobby, capturing moments with both DSLR and mobile photography - you can find some of my work on my Instagram.
 
 My core programming languages include `JavaScript`, `HTML`, `CSS`, `SASS`, `Java`, and `TypeScript`. For front-end development, I have a deep understanding of frameworks and libraries such as `Bootstrap`, `React`, `Svelte`, `jQuery`, `Three.js`, `GSAP`, `Chart.js`, `Recharts`, `MUI`, `Framer Motion`, `React-Toastify`, `Discord.js`, and `i18n`.
 
-In backend development, I am proficient with `Python`, `Node.js` runtime environments, and `WebSockets`. I have extensive experience with cloud services, particularly `Firebase` (including `Firestore`, `Storage`, and `Authentication`), and `Google Cloud`. For deployment and hosting, I work with `Linux`, `Apache`, and `Azure Virtual Server`.
+In backend development, I am proficient with `Python`, `Node.js` runtime environments, and `WebSockets`. I have extensive experience with cloud services, particularly `Firebase` (including `Firestore`, `Storage`, and `Authentication`), and `Google Cloud`. For deployment and hosting, I work with `Linux`, `Apache`, `Docker`, and `Azure Virtual Server`.
 
-My technical toolkit also includes `Tailwind CSS` for utility-first styling, `Zod` for schema validation, `TypeDoc` for documentation, `Selenium` for automation testing, and `OpenAI` for AI integration.
+My technical toolkit also includes `Tailwind CSS` for utility-first styling, `Zod` for schema validation, `TypeDoc` for documentation, `Selenium` for automation testing, `OpenAI` for AI integration, and `Playwright` for end-to-end testing.
 
-Additionally, I am proficient in content creation and design software including `Blender`, `Adobe Photoshop`, `After Effects`, `Premiere`, `Lightroom`, `SmartSign`, `Audacity`, and `GIMP`.
+Additionally, I am proficient in content creation and design software including `Blender`, `Adobe Photoshop`, `After Effects`, `Premiere`, `Lightroom`, `SmartSign`, `Audacity`, and `GIMP`. I am also well-versed in productivity tools such as `Microsoft Word`, `Microsoft Excel`, `Microsoft PowerPoint`, `Microsoft Visio`, `Microsoft Project`, `Microsoft Planner`, `Microsoft Forms`, `Google Docs`, `Google Sheets`, `Google Slides`, `Google Forms`, collaboration platforms like `Microsoft Teams`, `Slack`.
 
 Over the course of my school/work career, I have been privileged to contribute to a diverse array of projects, encompassing school-related projects, websites, and Android mobile applications. Some of my notable projects include a recipe website, a health app, a beach information website, a movie festival website, a restaurant index website, digital signage for school information display, a rooms reservation information digital signage system, an attendance taking website, a course listings platform, a needs analysis tool for organizational assessment, Discord bots for server management and automation, and a business canvas application for startup entrepreneurs. These projects have allowed me to demonstrate my ability to design and develop web applications that cater to the needs of my clients or users, and my capacity to thrive in a team environment.
 
