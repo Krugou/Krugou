@@ -30,4 +30,4 @@ I am constantly seeking new challenges and opportunities to evolve as a develope
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krugou&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krugou&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krugou&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krugou&theme=aura&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krugou&theme=aura&utcOffset=2)
