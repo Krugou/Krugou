@@ -4,11 +4,11 @@
 
 Greetings! I am Aleksi Nokelainen, a dedicated full stack software developer with a fervor for crafting intuitive and user-centric software solutions. I possess a robust skill set in a multitude of programming languages and technologies. In my free time, I pursue photography as a hobby, capturing moments with both DSLR and mobile photography - you can find some of my work on my Instagram.
 
-My core programming languages include `JavaScript`, `HTML`, `CSS`, `SASS`, `Java`, and `TypeScript`. For front-end development, I have a deep understanding of frameworks and libraries such as `Bootstrap`, `React`, `Svelte`, `jQuery`, `Three.js`, `GSAP`, `Chart.js`, `Recharts`, `MUI`, `Framer Motion`, `React-Toastify`, `Discord.js`, and `i18n`.
+My core programming languages include `JavaScript`, `HTML`, `CSS`, `SASS`, `Java`, and `TypeScript`. For front-end development, I have a deep understanding of frameworks and libraries such as `Next.js`, `Bootstrap`, `React`, `Svelte`, `jQuery`, `Three.js`, `GSAP`, `Chart.js`, `Recharts`, `MUI`, `Framer Motion`, `React-Toastify`, `Discord.js`, and `i18n`.
 
 In backend development, I am proficient with `Python`, `Node.js` runtime environments, and `WebSockets`. I have extensive experience with cloud services, particularly `Firebase` (including `Firestore`, `Storage`, and `Authentication`), and `Google Cloud`. For deployment and hosting, I work with `Linux`, `Apache`, `Docker`, and `Azure Virtual Server`.
 
-My technical toolkit also includes `Tailwind CSS` for utility-first styling, `Zod` for schema validation, `TypeDoc` for documentation, `Selenium` for automation testing, `OpenAI` for AI integration, and `Playwright` and `Cypress` for end-to-end testing.
+My technical toolkit also includes `Tailwind CSS` (v3 & v4) for utility-first styling, `Zod` for schema validation, `TypeDoc` for documentation, `Selenium` for automation testing, `OpenAI` for AI integration and gen AI text improvement, `Antigravity`, `ChatGPT Enterprise`, and `Playwright` and `Cypress` for end-to-end testing. For development, I primarily use `VS Code` and `JetBrains` IDEs.
 
 Additionally, I am proficient in content creation and design software including `Blender`, `Adobe Photoshop`, `After Effects`, `Premiere`, `Lightroom`, `SmartSign`, `Audacity`, and `GIMP`. I am also well-versed in productivity tools such as `Microsoft Word`, `Microsoft Excel`, `Microsoft PowerPoint`, `Microsoft Visio`, `Microsoft Project`, `Microsoft Planner`, `Microsoft Forms`, `Google Docs`, `Google Sheets`, `Google Slides`, `Google Forms`, collaboration platforms like `Microsoft Teams`, `Slack`.
 
