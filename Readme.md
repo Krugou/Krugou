@@ -31,3 +31,22 @@ I am constantly seeking new challenges and opportunities to evolve as a develope
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krugou&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krugou&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krugou&theme=aura&utcOffset=2)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krugou&theme=aura&utcOffset=2)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Code.+Photography.+Coffee.;Building+the+future+with+AI.;Capturing+the+world+one+frame+at+a+time.;Always+learning+and+evolving." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krugou&theme=radical&hide_border=true&stroke=00000000" alt="GitHub Streak Stats" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krugou/krugou/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krugou/krugou/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krugou/krugou/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
