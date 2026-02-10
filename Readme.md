@@ -1,5 +1,7 @@
 # Aleksi Nokelainen - Full Stack Developer
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Code.+Photography.+Coffee.;Building+the+future+with+AI.;Capturing+the+world+one+frame+at+a+time.;Always+learning+and+evolving." alt="Typing SVG" />
+</p>
 ## About me
 
 Greetings! I am Aleksi Nokelainen, a dedicated full stack software developer with a fervor for crafting intuitive and user-centric software solutions. I possess a robust skill set in a multitude of programming languages and technologies. In my free time, I pursue photography as a hobby, capturing moments with both DSLR and mobile photography - you can find some of my work on my Instagram.
@@ -24,29 +26,22 @@ I am constantly seeking new challenges and opportunities to evolve as a develope
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krugou/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksi.nokelainen@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krugou&layout=compact&theme=radical&hide=html,css,less,scss,shaderlab)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krugou&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krugou&layout=compact&theme=radical&hide=html,css,less,scss,shaderlab)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krugou&show_icons=true&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krugou&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krugou&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krugou&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krugou&theme=aura&utcOffset=2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krugou&theme=aura&utcOffset=2)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krugou&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krugou&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krugou&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krugou&theme=aura&utcOffset=2)
+
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Code.+Photography.+Coffee.;Building+the+future+with+AI.;Capturing+the+world+one+frame+at+a+time.;Always+learning+and+evolving." alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krugou&theme=radical&hide_border=true&stroke=00000000" alt="GitHub Streak Stats" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krugou/krugou/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krugou/krugou/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krugou/krugou/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ---
