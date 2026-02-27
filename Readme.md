@@ -1,6 +1,6 @@
 # Aleksi Nokelainen - Full Stack Developer
 <p >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Code.+Photography.+Coffee.;Building+the+future+with+AI.;Capturing+the+world+one+frame+at+a+time.;Always+learning+and+evolving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Code.+Photography.+Coffee.;Building+the+future+with+AI.;Capturing+the+world;one+frame+at+a+time.;Always+learning+and+evolving." alt="Typing SVG" />
 </p>
 ## About me
 
