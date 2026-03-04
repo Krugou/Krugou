@@ -1,22 +1,110 @@
-# Aleksi Nokelainen - Full Stack Developer
+
+
+# 👋 Hi, I’m Aleksi Nokelainen (krugou)
 <p >
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Code.+Photography.+Coffee.;Building+the+future+with+AI.;Capturing+the+world;one+frame+at+a+time.;Always+learning+and+evolving." alt="Typing SVG" />
 </p>
-## About me
+Full Stack developer focused on **TypeScript-first, cloud-native applications** and production-ready system design.
 
-Greetings! I am Aleksi Nokelainen, a dedicated full stack software developer with a fervor for crafting intuitive and user-centric software solutions. I possess a robust skill set in a multitude of programming languages and technologies. In my free time, I pursue photography as a hobby, capturing moments with both DSLR and mobile photography - you can find some of my work on my Instagram.
+I build scalable web applications across the entire stack — from modern React/Next.js frontends to Azure-based serverless backends — with a strong emphasis on:
 
-My core programming languages include `JavaScript`, `HTML`, `CSS`, `SASS`, `Java`, and `TypeScript`. For front-end development, I have a deep understanding of frameworks and libraries such as `Next.js`, `Bootstrap`, `React`, `Svelte`, `jQuery`, `Three.js`, `GSAP`, `Chart.js`, `Recharts`, `MUI`, `Framer Motion`, `React-Toastify`, `Discord.js`, and `i18n`.
+* Type safety
+* Automated testing
+* Observability
+* Maintainability
+* Clean architecture
 
-In backend development, I am proficient with `Python` (`Flask`, `FastAPI`), `Node.js` runtime environments, `Express.js`, `PM2`, and `WebSockets`. I have extensive experience with cloud services, particularly `Firebase` (including `Firestore`, `Storage`, and `Authentication`), `Google Cloud`, `Azure Function`, and `Azure Storage`. For deployment and hosting, I work with `Linux`, `Apache`, `Docker`, and `Azure Virtual Server`.
+---
 
-My technical toolkit also includes `Tailwind CSS` (v3 & v4) for utility-first styling, `Zod` for schema validation, `TypeDoc` for documentation, `Selenium` for automation testing, `Vitest` and `Jest` for unit testing, `OpenAI` for AI integration and gen AI text improvement, `Antigravity`, `ChatGPT Enterprise`, `Hygraph CMS`, and `Playwright` and `Cypress` for end-to-end testing. For development, I primarily use `VS Code` and `JetBrains` IDEs.
+## 🧠 What I Work With
 
-Additionally, I am proficient in content creation and design software including `Blender`, `Adobe Photoshop`, `Figma`, `After Effects`, `Premiere`, `Lightroom`, `Excalidraw`, `SmartSign`, `Audacity`, and `GIMP`. I am also well-versed in productivity tools such as `Microsoft Word`, `Microsoft Excel`, `Microsoft PowerPoint`, `Microsoft Visio`, `Microsoft Project`, `Microsoft Planner`, `Microsoft Forms`, `Google Docs`, `Google Sheets`, `Google Slides`, `Google Forms`, collaboration platforms like `Microsoft Teams`, `Slack`.
+### 💻 Frontend
 
-Over the course of my school/work career, I have been privileged to contribute to a diverse array of projects, encompassing school-related projects, websites, and Android mobile applications. Some of my notable projects include a web-based VR game called "The Hunt for the Red Coffee Machine", a recipe website, a health app, a beach information website, a movie festival website, a restaurant index website, digital signage for school information display, a rooms reservation information digital signage system, an attendance taking website, a course listings platform, a needs analysis tool for organizational assessment, Discord bots for server management and automation, and a business canvas application for startup entrepreneurs. These projects have allowed me to demonstrate my ability to design and develop web applications that cater to the needs of my clients or users, and my capacity to thrive in a team environment.
+* React, Next.js, Svelte
+* TypeScript
+* Tailwind CSS, MUI
+* PWA (Vite & Next.js)
+* Three.js, GSAP
+* Leaflet (mapping & geospatial UI)
+* i18n
 
-I am constantly seeking new challenges and opportunities to evolve as a developer. I firmly believe in the power of collaboration and teamwork, and I relish the opportunity to work with others to brainstorm and solve problems. If you have a project in mind or are simply seeking a collaborator, please do not hesitate to reach out to me through my GitHub profile. Thank you for your time!
+### ⚙️ Backend & Cloud
+
+* Node.js, Express
+* Azure Functions (serverless architecture)
+* Firebase (Firestore, Auth, Storage)
+* MongoDB, Cosmos DB
+* SQL, MariaDB
+* WebSockets
+* Zod (schema validation)
+
+### 🧪 Testing & Quality
+
+* Vitest, Jest
+* Cypress, Playwright
+* Selenium
+* Structured logging (Winston)
+* Dependency security (Dependabot, GitHub Security Alerts)
+
+### 📊 Monitoring & Analytics
+
+* Azure Application Insights (KQL)
+* Google Analytics
+* Telemetry & performance diagnostics
+
+### 🤖 AI & Automation
+
+* OpenAI API integration
+* Generative AI workflows
+* Prompt design & backend AI pipelines
+* Python (Flask, FastAPI)
+* Automation & data tooling
+
+---
+
+## 🏗️ Engineering Approach
+
+I care about building systems that are:
+
+* Type-safe and test-driven
+* Cloud-native and scalable
+* Observable and production-ready
+* Easy to maintain and extend
+
+I actively participate in:
+
+* Requirements analysis
+* Technical solution proposals
+* Architecture decisions
+* End-to-end implementation
+
+---
+
+## 🎨 Creative & Visual Work
+
+When needed, I produce UI assets and 3D elements using:
+
+* Blender
+* Figma
+* Inkscape
+* Adobe Creative Cloud
+
+This allows me to bridge design and engineering without friction.
+
+---
+
+## 🚀 What You’ll Find Here
+
+This profile includes projects ranging from:
+
+* Cloud-based web platforms
+* Serverless backends
+* Web-based VR experiments
+* Automation tools
+* Interactive frontends
+* AI-powered features
+
+I’m always refining my architecture skills, exploring scalable system design, and pushing toward cleaner, more robust implementations.
 
 ## Connect with me
 
@@ -40,7 +128,3 @@ I am constantly seeking new challenges and opportunities to evolve as a develope
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krugou&theme=radical&hide_border=true&stroke=00000000" alt="GitHub Streak Stats" />
 </p>
-
-
-
----
